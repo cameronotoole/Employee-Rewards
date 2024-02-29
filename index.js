@@ -65,6 +65,10 @@ if (empYears >= 5) {
     }
 }
 
+if (empYears === 0) {
+    console.log("Not eligible for gift")
+}
+
 
 
 
